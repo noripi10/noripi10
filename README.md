@@ -7,3 +7,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noripi10&show_icons=true&locale=en&layout=compact" alt="noripi10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noripi10&show_icons=true&locale=en" alt="noripi10" /></p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
